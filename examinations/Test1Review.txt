@@ -1,0 +1,28 @@
+
+1. Syntax errors
+   Runtime errors
+   Semantic errors
+
+2. Comments
+   """
+   #
+
+3. Convert math to python. Review math operators including exponential. 
+P(1+r/n)^nt
+
+4. Python Program
+Review Turtle commands and refresh to build a triangle, square, or hexagon. 
+
+5. if-else statements
+
+6. Output based on a short logic code
+
+7. Review (for loops)
+
+8. Review Boolean operations and precedent. 
+(not- operator)
+
+9. Output code based on snippet logic.
+
+10. Write a function declaration, function definition, 
+

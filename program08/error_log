@@ -1,0 +1,264 @@
+[07-Mar-2016 21:25:58 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 345
+[07-Mar-2016 21:25:58 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 349
+[07-Mar-2016 21:25:58 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 353
+[07-Mar-2016 21:25:58 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 357
+[07-Mar-2016 21:25:58 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 396
+[07-Mar-2016 21:25:58 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 396
+[08-Mar-2016 05:25:13 UTC] PHP Notice:  Undefined index: upload in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 328
+[08-Mar-2016 05:25:13 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 343
+[08-Mar-2016 05:25:13 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 347
+[08-Mar-2016 05:25:13 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 351
+[08-Mar-2016 05:25:13 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 355
+[08-Mar-2016 05:25:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 387
+[08-Mar-2016 05:25:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 387
+[08-Mar-2016 18:04:14 UTC] PHP Notice:  Undefined index: logout in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 151
+[08-Mar-2016 18:04:14 UTC] PHP Notice:  Undefined index: login in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 157
+[08-Mar-2016 18:04:14 UTC] PHP Notice:  Undefined index: uploaded in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 167
+[08-Mar-2016 18:04:14 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 172
+[08-Mar-2016 18:04:14 UTC] PHP Notice:  Undefined index: invalid in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 177
+[08-Mar-2016 18:04:14 UTC] PHP Notice:  Undefined index: upload in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 358
+[08-Mar-2016 18:04:14 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 393
+[08-Mar-2016 18:04:14 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 393
+[08-Mar-2016 18:04:19 UTC] PHP Notice:  Undefined index: logout in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 151
+[08-Mar-2016 18:04:19 UTC] PHP Notice:  Undefined index: login in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 157
+[08-Mar-2016 18:04:19 UTC] PHP Notice:  Undefined index: uploaded in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 167
+[08-Mar-2016 18:04:19 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 172
+[08-Mar-2016 18:04:19 UTC] PHP Notice:  Undefined index: invalid in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 177
+[08-Mar-2016 18:04:19 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 393
+[08-Mar-2016 18:04:19 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 393
+[08-Mar-2016 18:04:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 87
+[08-Mar-2016 18:04:29 UTC] PHP Notice:  Undefined index: logout in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 151
+[08-Mar-2016 18:04:29 UTC] PHP Notice:  Undefined index: login in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 157
+[08-Mar-2016 18:04:29 UTC] PHP Notice:  Undefined index: uploaded in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 167
+[08-Mar-2016 18:04:29 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 172
+[08-Mar-2016 18:04:29 UTC] PHP Notice:  Undefined index: invalid in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 177
+[08-Mar-2016 18:04:29 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 393
+[08-Mar-2016 18:04:29 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 393
+[08-Mar-2016 18:15:04 UTC] PHP Notice:  Undefined index: logout in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 151
+[08-Mar-2016 18:15:04 UTC] PHP Notice:  Undefined index: login in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 157
+[08-Mar-2016 18:15:04 UTC] PHP Notice:  Undefined index: uploaded in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 167
+[08-Mar-2016 18:15:04 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 172
+[08-Mar-2016 18:15:04 UTC] PHP Notice:  Undefined index: invalid in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 177
+[08-Mar-2016 18:15:04 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 393
+[08-Mar-2016 18:15:04 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 393
+[08-Mar-2016 18:15:35 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 87
+[08-Mar-2016 18:15:36 UTC] PHP Notice:  Undefined index: logout in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 151
+[08-Mar-2016 18:15:36 UTC] PHP Notice:  Undefined index: login in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 157
+[08-Mar-2016 18:15:36 UTC] PHP Notice:  Undefined index: uploaded in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 167
+[08-Mar-2016 18:15:36 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 172
+[08-Mar-2016 18:15:36 UTC] PHP Notice:  Undefined index: invalid in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 177
+[08-Mar-2016 18:15:36 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 393
+[08-Mar-2016 18:15:36 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 484
+[08-Mar-2016 18:15:36 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 393
+[08-Mar-2016 18:15:36 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 393
+[08-Mar-2016 18:15:36 UTC] PHP Notice:  Undefined index: logout in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 151
+[08-Mar-2016 18:15:36 UTC] PHP Notice:  Undefined index: login in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 157
+[08-Mar-2016 18:15:36 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 172
+[08-Mar-2016 18:15:36 UTC] PHP Notice:  Undefined index: invalid in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 177
+[08-Mar-2016 18:15:36 UTC] PHP Notice:  Undefined index: upload in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 358
+[08-Mar-2016 18:15:36 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 393
+[08-Mar-2016 18:15:36 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 393
+[08-Mar-2016 18:15:36 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 393
+[08-Mar-2016 18:16:19 UTC] PHP Notice:  Undefined index: logout in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 151
+[08-Mar-2016 18:16:19 UTC] PHP Notice:  Undefined index: login in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 157
+[08-Mar-2016 18:16:19 UTC] PHP Notice:  Undefined index: uploaded in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 167
+[08-Mar-2016 18:16:19 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 172
+[08-Mar-2016 18:16:19 UTC] PHP Notice:  Undefined index: invalid in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 177
+[08-Mar-2016 18:16:19 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 393
+[08-Mar-2016 18:16:19 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 484
+[08-Mar-2016 18:16:19 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 393
+[08-Mar-2016 18:16:19 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 393
+[08-Mar-2016 18:16:41 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 87
+[08-Mar-2016 18:16:41 UTC] PHP Notice:  Undefined index: logout in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 151
+[08-Mar-2016 18:16:41 UTC] PHP Notice:  Undefined index: login in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 157
+[08-Mar-2016 18:16:41 UTC] PHP Notice:  Undefined index: uploaded in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 167
+[08-Mar-2016 18:16:41 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 172
+[08-Mar-2016 18:16:41 UTC] PHP Notice:  Undefined index: invalid in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 177
+[08-Mar-2016 18:16:41 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 393
+[08-Mar-2016 18:16:41 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 484
+[08-Mar-2016 18:16:41 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 393
+[08-Mar-2016 18:16:41 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 393
+[08-Mar-2016 18:22:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 87
+[08-Mar-2016 18:22:24 UTC] PHP Notice:  Undefined index: logout in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 151
+[08-Mar-2016 18:22:24 UTC] PHP Notice:  Undefined index: login in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 157
+[08-Mar-2016 18:22:24 UTC] PHP Notice:  Undefined index: uploaded in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 167
+[08-Mar-2016 18:22:24 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 172
+[08-Mar-2016 18:22:24 UTC] PHP Notice:  Undefined index: invalid in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 177
+[08-Mar-2016 18:22:24 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 399
+[08-Mar-2016 18:22:24 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 490
+[08-Mar-2016 18:22:24 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 399
+[08-Mar-2016 18:22:24 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 399
+[08-Mar-2016 18:23:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 87
+[08-Mar-2016 18:23:24 UTC] PHP Notice:  Undefined index: logout in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 151
+[08-Mar-2016 18:23:24 UTC] PHP Notice:  Undefined index: login in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 157
+[08-Mar-2016 18:23:24 UTC] PHP Notice:  Undefined index: uploaded in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 167
+[08-Mar-2016 18:23:24 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 172
+[08-Mar-2016 18:23:24 UTC] PHP Notice:  Undefined index: invalid in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 177
+[08-Mar-2016 18:23:24 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 399
+[08-Mar-2016 18:23:24 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 490
+[08-Mar-2016 18:23:24 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 399
+[08-Mar-2016 18:23:24 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 399
+[08-Mar-2016 18:23:44 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 346
+[08-Mar-2016 18:23:47 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 346
+[08-Mar-2016 18:24:02 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 345
+[08-Mar-2016 18:24:03 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 345
+[08-Mar-2016 18:24:32 UTC] PHP Notice:  Undefined index: logout in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 151
+[08-Mar-2016 18:24:32 UTC] PHP Notice:  Undefined index: login in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 157
+[08-Mar-2016 18:24:32 UTC] PHP Notice:  Undefined index: uploaded in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 167
+[08-Mar-2016 18:24:32 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 172
+[08-Mar-2016 18:24:32 UTC] PHP Notice:  Undefined index: invalid in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 177
+[08-Mar-2016 18:24:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 394
+[08-Mar-2016 18:24:32 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 485
+[08-Mar-2016 18:24:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 394
+[08-Mar-2016 18:24:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 394
+[08-Mar-2016 18:27:01 UTC] PHP Notice:  Undefined index: logout in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 151
+[08-Mar-2016 18:27:01 UTC] PHP Notice:  Undefined index: login in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 157
+[08-Mar-2016 18:27:01 UTC] PHP Notice:  Undefined index: uploaded in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 167
+[08-Mar-2016 18:27:01 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 172
+[08-Mar-2016 18:27:01 UTC] PHP Notice:  Undefined index: invalid in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 177
+[08-Mar-2016 18:27:01 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 402
+[08-Mar-2016 18:27:01 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 493
+[08-Mar-2016 18:27:01 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 402
+[08-Mar-2016 18:27:01 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 402
+[08-Mar-2016 18:35:32 UTC] PHP Notice:  Undefined index: logout in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 151
+[08-Mar-2016 18:35:32 UTC] PHP Notice:  Undefined index: login in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 157
+[08-Mar-2016 18:35:32 UTC] PHP Notice:  Undefined index: uploaded in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 167
+[08-Mar-2016 18:35:32 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 172
+[08-Mar-2016 18:35:32 UTC] PHP Notice:  Undefined index: invalid in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 177
+[08-Mar-2016 18:35:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 406
+[08-Mar-2016 18:35:32 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 497
+[08-Mar-2016 18:35:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 406
+[08-Mar-2016 18:35:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 406
+[08-Mar-2016 18:39:35 UTC] PHP Notice:  Undefined index: logout in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 151
+[08-Mar-2016 18:39:35 UTC] PHP Notice:  Undefined index: login in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 157
+[08-Mar-2016 18:39:35 UTC] PHP Notice:  Undefined index: uploaded in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 167
+[08-Mar-2016 18:39:35 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 172
+[08-Mar-2016 18:39:35 UTC] PHP Notice:  Undefined index: invalid in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 177
+[08-Mar-2016 18:39:35 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 412
+[08-Mar-2016 18:39:35 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 503
+[08-Mar-2016 18:39:35 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 412
+[08-Mar-2016 18:39:35 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 412
+[08-Mar-2016 18:39:59 UTC] PHP Notice:  Undefined index: logout in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 151
+[08-Mar-2016 18:39:59 UTC] PHP Notice:  Undefined index: login in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 157
+[08-Mar-2016 18:39:59 UTC] PHP Notice:  Undefined index: uploaded in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 167
+[08-Mar-2016 18:39:59 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 172
+[08-Mar-2016 18:39:59 UTC] PHP Notice:  Undefined index: invalid in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 177
+[08-Mar-2016 18:39:59 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 415
+[08-Mar-2016 18:39:59 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 506
+[08-Mar-2016 18:39:59 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 415
+[08-Mar-2016 18:39:59 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 415
+[08-Mar-2016 18:40:25 UTC] PHP Notice:  Undefined index: logout in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 151
+[08-Mar-2016 18:40:25 UTC] PHP Notice:  Undefined index: login in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 157
+[08-Mar-2016 18:40:25 UTC] PHP Notice:  Undefined index: uploaded in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 167
+[08-Mar-2016 18:40:25 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 172
+[08-Mar-2016 18:40:25 UTC] PHP Notice:  Undefined index: invalid in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 177
+[08-Mar-2016 18:40:25 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 415
+[08-Mar-2016 18:40:25 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 506
+[08-Mar-2016 18:40:25 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 415
+[08-Mar-2016 18:40:25 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 415
+[08-Mar-2016 18:40:58 UTC] PHP Notice:  Undefined index: logout in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 151
+[08-Mar-2016 18:40:58 UTC] PHP Notice:  Undefined index: login in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 157
+[08-Mar-2016 18:40:58 UTC] PHP Notice:  Undefined index: uploaded in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 167
+[08-Mar-2016 18:40:58 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 172
+[08-Mar-2016 18:40:58 UTC] PHP Notice:  Undefined index: invalid in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 177
+[08-Mar-2016 18:40:58 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 417
+[08-Mar-2016 18:40:58 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 508
+[08-Mar-2016 18:40:58 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 417
+[08-Mar-2016 18:40:58 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 417
+[08-Mar-2016 18:41:42 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 347
+[08-Mar-2016 18:41:57 UTC] PHP Notice:  Undefined index: logout in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 151
+[08-Mar-2016 18:41:57 UTC] PHP Notice:  Undefined index: login in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 157
+[08-Mar-2016 18:41:57 UTC] PHP Notice:  Undefined index: uploaded in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 167
+[08-Mar-2016 18:41:57 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 172
+[08-Mar-2016 18:41:57 UTC] PHP Notice:  Undefined index: invalid in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 177
+[08-Mar-2016 18:41:57 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 421
+[08-Mar-2016 18:41:57 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 512
+[08-Mar-2016 18:41:57 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 421
+[08-Mar-2016 18:41:57 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 421
+[08-Mar-2016 18:43:03 UTC] PHP Notice:  Undefined index: logout in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 151
+[08-Mar-2016 18:43:03 UTC] PHP Notice:  Undefined index: login in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 157
+[08-Mar-2016 18:43:03 UTC] PHP Notice:  Undefined index: uploaded in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 167
+[08-Mar-2016 18:43:03 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 172
+[08-Mar-2016 18:43:03 UTC] PHP Notice:  Undefined index: invalid in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 177
+[08-Mar-2016 18:43:03 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 418
+[08-Mar-2016 18:43:03 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 509
+[08-Mar-2016 18:43:03 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 418
+[08-Mar-2016 18:43:03 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 418
+[08-Mar-2016 18:43:20 UTC] PHP Notice:  Undefined index: logout in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 151
+[08-Mar-2016 18:43:20 UTC] PHP Notice:  Undefined index: login in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 157
+[08-Mar-2016 18:43:20 UTC] PHP Notice:  Undefined index: uploaded in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 167
+[08-Mar-2016 18:43:20 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 172
+[08-Mar-2016 18:43:20 UTC] PHP Notice:  Undefined index: invalid in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 177
+[08-Mar-2016 18:43:20 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 418
+[08-Mar-2016 18:43:20 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 509
+[08-Mar-2016 18:43:20 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 418
+[08-Mar-2016 18:43:20 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 418
+[08-Mar-2016 18:44:36 UTC] PHP Notice:  Undefined index: logout in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 151
+[08-Mar-2016 18:44:36 UTC] PHP Notice:  Undefined index: login in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 157
+[08-Mar-2016 18:44:36 UTC] PHP Notice:  Undefined index: uploaded in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 167
+[08-Mar-2016 18:44:36 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 172
+[08-Mar-2016 18:44:36 UTC] PHP Notice:  Undefined index: invalid in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 177
+[08-Mar-2016 18:44:36 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 418
+[08-Mar-2016 18:44:36 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 509
+[08-Mar-2016 18:44:36 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 418
+[08-Mar-2016 18:44:36 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 418
+[08-Mar-2016 18:44:41 UTC] PHP Notice:  Undefined index: logout in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 151
+[08-Mar-2016 18:44:41 UTC] PHP Notice:  Undefined index: login in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 157
+[08-Mar-2016 18:44:41 UTC] PHP Notice:  Undefined index: uploaded in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 167
+[08-Mar-2016 18:44:41 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 172
+[08-Mar-2016 18:44:41 UTC] PHP Notice:  Undefined index: invalid in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 177
+[08-Mar-2016 18:44:41 UTC] PHP Notice:  Undefined index: upload in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 383
+[08-Mar-2016 18:44:41 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 418
+[08-Mar-2016 18:44:41 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 509
+[08-Mar-2016 18:44:41 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 418
+[08-Mar-2016 18:44:41 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 418
+[08-Mar-2016 18:47:19 UTC] PHP Notice:  Undefined index: logout in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 151
+[08-Mar-2016 18:47:19 UTC] PHP Notice:  Undefined index: login in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 157
+[08-Mar-2016 18:47:19 UTC] PHP Notice:  Undefined index: uploaded in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 167
+[08-Mar-2016 18:47:19 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 172
+[08-Mar-2016 18:47:19 UTC] PHP Notice:  Undefined index: invalid in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 177
+[08-Mar-2016 18:47:19 UTC] PHP Notice:  Undefined index: upload in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 386
+[08-Mar-2016 18:47:19 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 421
+[08-Mar-2016 18:47:19 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 512
+[08-Mar-2016 18:47:19 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 421
+[08-Mar-2016 18:47:19 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 421
+[08-Mar-2016 18:48:44 UTC] PHP Notice:  Undefined index: logout in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 151
+[08-Mar-2016 18:48:44 UTC] PHP Notice:  Undefined index: login in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 157
+[08-Mar-2016 18:48:44 UTC] PHP Notice:  Undefined index: uploaded in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 167
+[08-Mar-2016 18:48:44 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 172
+[08-Mar-2016 18:48:44 UTC] PHP Notice:  Undefined index: invalid in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 177
+[08-Mar-2016 18:48:44 UTC] PHP Notice:  Undefined index: upload in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 383
+[08-Mar-2016 18:48:44 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 418
+[08-Mar-2016 18:48:44 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 509
+[08-Mar-2016 18:48:44 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 418
+[08-Mar-2016 18:48:44 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 418
+[08-Mar-2016 18:52:54 UTC] PHP Notice:  Undefined index: logout in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 151
+[08-Mar-2016 18:52:54 UTC] PHP Notice:  Undefined index: login in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 157
+[08-Mar-2016 18:52:54 UTC] PHP Notice:  Undefined index: uploaded in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 167
+[08-Mar-2016 18:52:54 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 172
+[08-Mar-2016 18:52:54 UTC] PHP Notice:  Undefined index: invalid in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 177
+[08-Mar-2016 18:52:54 UTC] PHP Notice:  Undefined index: upload in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 370
+[08-Mar-2016 18:52:54 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 405
+[08-Mar-2016 18:52:54 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 496
+[08-Mar-2016 18:52:54 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 405
+[08-Mar-2016 18:52:54 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 405
+[08-Mar-2016 18:56:44 UTC] PHP Notice:  Undefined index: logout in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 151
+[08-Mar-2016 18:56:44 UTC] PHP Notice:  Undefined index: login in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 157
+[08-Mar-2016 18:56:44 UTC] PHP Notice:  Undefined index: uploaded in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 167
+[08-Mar-2016 18:56:44 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 172
+[08-Mar-2016 18:56:44 UTC] PHP Notice:  Undefined index: invalid in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 177
+[08-Mar-2016 18:56:44 UTC] PHP Notice:  Undefined index: upload in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 365
+[08-Mar-2016 18:56:44 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 400
+[08-Mar-2016 18:56:44 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 491
+[08-Mar-2016 18:56:44 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 400
+[08-Mar-2016 18:56:44 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 400
+[08-Mar-2016 18:57:02 UTC] PHP Notice:  Undefined index: logout in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 151
+[08-Mar-2016 18:57:02 UTC] PHP Notice:  Undefined index: login in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 157
+[08-Mar-2016 18:57:02 UTC] PHP Notice:  Undefined index: uploaded in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 167
+[08-Mar-2016 18:57:02 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 172
+[08-Mar-2016 18:57:02 UTC] PHP Notice:  Undefined index: invalid in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 177
+[08-Mar-2016 18:57:02 UTC] PHP Notice:  Undefined index: upload in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 365
+[08-Mar-2016 18:57:02 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 400
+[08-Mar-2016 18:57:02 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 491
+[08-Mar-2016 18:57:02 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 400
+[08-Mar-2016 18:57:02 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 400
